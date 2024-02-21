@@ -1,6 +1,6 @@
 # raycastScripts
 ---
-- A showcase of my Rasycast scripts
+- A showcase of my Raycast scripts
 
 - I intend to showcase these scripts as I want to share the value I gain from the scripts, and spread the power of Raycast!
 
@@ -17,7 +17,6 @@
 
 ### From there, fill out the information as needed. 
 ---
-
 ## ⚠️ For the scripts to properly work, a script directory needs to be defined ⚠️ 
 
 ### To define a Raycast Script Directory:
