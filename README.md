@@ -18,9 +18,9 @@
 ### From there, fill out the information as needed. 
 ---
 
-## ⚠️ For the scripts to properly work, a script directory needs to be set ⚠️ 
+## ⚠️ For the scripts to properly work, a script directory needs to be defined ⚠️ 
 
-### To set a Raycast Script Directory:
+### To define a Raycast Script Directory:
 1. Open the Extension page in the Raycast Settings by simply typing "Extensions" 
 2. Click on Scripts → Script Commands
 3. Add a directory
