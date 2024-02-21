@@ -12,7 +12,7 @@
 3. Click on "Create Script Command"
 ### You will get a page that looks like this:
 <p align="center">
-  <img src="https://github.com/bmrolo/raycastScripts/blob/main/Raycast%20Script%20Create%20Page.png" alt="Raycast Script Creation Page"/>
+  <img src="https://github.com/bmrolo/raycastScripts/blob/main/Documentation%20Pictures/Raycast%20Script%20Create%20Page.png" alt="Raycast Script Creation Page"/>
 </p>
 
 ### From there, fill out the information as needed. 
@@ -25,5 +25,5 @@
 2. Click on Scripts → Script Commands
 3. Add A Directory
 <p align="center">
-  <img src="https://github.com/bmrolo/raycastScripts/blob/main/Raycast%20Directory%20Directions.png" alt="Raycast Directory Directions"/>
+  <img src="https://github.com/bmrolo/raycastScripts/blob/main/Documentation%20Pictures/Raycast%20Directory%20Directions.png" alt="Raycast Directory Directions"/>
 </p>
