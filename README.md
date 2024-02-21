@@ -23,7 +23,7 @@
 ### To set a Raycast Script Directory:
 1. Open the Extension page in the Raycast Settings by simply typing "Extensions" 
 2. Click on Scripts → Script Commands
-3. Add A Directory
+3. Add a directory
 <p align="center">
   <img src="https://github.com/bmrolo/raycastScripts/blob/main/Documentation%20Pictures/Raycast%20Directory%20Directions.png" alt="Raycast Directory Directions"/>
 </p>
